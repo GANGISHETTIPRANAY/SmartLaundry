@@ -1,0 +1,57 @@
+body{
+    background-color: #B2BEB5;
+    color: #964B00;
+    padding-left: 100px;
+}
+
+.heading{
+    margin-left:15px;
+    font-size: 50px;
+    color: #964B00;
+}
+
+.forms-fill-up{
+    padding: 40px;
+}
+
+.labels{
+    
+    margin: 4px;
+    font-size: 20px;
+}
+
+.submit-button{
+    padding-left: 120px;
+}
+
+.submit{
+    height: 50px;
+    width: 100px;
+    border-radius: 20px;
+    background-color: rgb(124, 124, 255);
+    font-size: large;
+   
+}
+
+.submit:hover{
+    background-color: rgb(23, 23, 240);
+    color: white;
+    border-color: white;
+   
+}
+.divsion{
+    width: 20px;
+    background-color: black;
+}
+
+.pass{
+    margin-left :160px;
+}
+
+.image{
+    position: absolute;
+    top:40px;
+    left:70%;
+    height: 10px;
+    width: 10px;
+}
